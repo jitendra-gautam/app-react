@@ -15,5 +15,5 @@ d.)In detailedPost.js, we show available info of post along with its comments re
 
 3. Created routes for the pages
 
-
-
+Please visit for functional demo:
+http://jitendra-gautam.github.io/app-react
